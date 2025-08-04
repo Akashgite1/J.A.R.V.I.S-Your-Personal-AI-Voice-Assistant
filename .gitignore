@@ -52,4 +52,3 @@ poetry.lock
 # Ignore Python cache files
 .gitignore
 .python-version
-
