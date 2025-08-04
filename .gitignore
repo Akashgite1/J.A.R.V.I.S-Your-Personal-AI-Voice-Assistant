@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+# Virtual environments
+.venv
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables and secrets
+.env
+*.pem
+
+# Audio files (generated or temporary)
+*.mp3
+*.wav
+
+# VS Code specific
+.vscode/
+
+# Gradio sessions (if any temp or cache is used)
+.gradio/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Lock/Dependency files (optional if not needed in repo)
+uv.lock
+poetry.lock
