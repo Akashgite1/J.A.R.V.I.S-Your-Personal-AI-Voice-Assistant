@@ -48,3 +48,8 @@ Thumbs.db
 # Lock/Dependency files (optional if not needed in repo)
 uv.lock
 poetry.lock
+
+# Ignore Python cache files
+.gitignore
+.python-version
+
