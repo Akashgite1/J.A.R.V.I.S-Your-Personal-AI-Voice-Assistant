@@ -2,8 +2,10 @@
 
 J.A.R.V.I.S (Just A Rather Very Intelligent System) is an advanced AI voice assistant inspired by Iron Man's Jarvis. This project uses speech recognition and text-to-speech to interact with users and perform intelligent tasks using LLMs.
 
+
+
 ---
-![alt text](image.png)
+![J.A.R.V.I.S AI Assistant](img/image.png)
 
 ## 🧠 Features
 
